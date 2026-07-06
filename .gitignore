@@ -1,0 +1,9 @@
+datasets/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+__pycache__/
+.env

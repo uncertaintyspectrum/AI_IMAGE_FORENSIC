@@ -1,0 +1,4 @@
+*.jpg filter=lfs diff=lfs merge=lfs -text
+datasets/** filter=lfs diff=lfs merge=lfs -text
+pix2pix/datasets/filter_dataset_AB/** filter=lfs diff=lfs merge=lfs -text
+datasets/filter_dataset_AB/** filter=lfs diff=lfs merge=lfs -text
