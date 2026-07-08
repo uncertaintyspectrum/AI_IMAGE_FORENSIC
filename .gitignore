@@ -1,6 +1,6 @@
+.vscode/
 datasets/
 outputs/
-checkpoints/
 *.pth
 *.pt
 *.ckpt
